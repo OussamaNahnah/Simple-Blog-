@@ -1,7 +1,7 @@
 ##  Simple-Blog-
 
 
-My first website using Laravel, is a small blog
+My first website using Laravel (a small blog)
 
 ## Tools used
 - Laravel 8
